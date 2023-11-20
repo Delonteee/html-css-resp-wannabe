@@ -149,4 +149,12 @@ img {
         width: 100%;
     }
 
+    .lessons .card,
+    .steps .card {
+        margin-bottom: 40px;
+    }
+
+    .why-us {
+        background-color: #222222;
+    }
  }
